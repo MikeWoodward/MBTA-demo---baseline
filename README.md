@@ -2,6 +2,15 @@
 
 A web application that displays MBTA subway line maps with real-time arrival predictions, route diagrams, and service alerts. The app features an interactive map with subway lines displayed using their official MBTA colors (Green Line is green, Red Line is red, Orange Line is orange, Blue Line is blue).
 
+![MBTA Subway Arrival Times App](Screenshot%202026-01-16%20at%2015.31.19.png)
+
+You can watch a video of the app here:
+
+<video width="800" controls>
+  <source src="Screen%20Recording%202026-01-16%20at%2015.39.12.mov" type="video/quicktime">
+  Your browser does not support the video tag. [Download the video](Screen%20Recording%202026-01-16%20at%2015.39.12.mov)
+</video>
+
 ## Features
 
 ### Arrival Times Tab
